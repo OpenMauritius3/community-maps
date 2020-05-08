@@ -52,6 +52,19 @@
       "properties": {
         "Q1a": "Y"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.55025,
+          -20.0576
+        ]
+      },
+      "properties": {
+        "Q1a": "Y"
+      }
     }
   ]
 }
