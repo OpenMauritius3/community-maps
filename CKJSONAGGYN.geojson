@@ -11,11 +11,11 @@
         ]
       },
       "properties": {
-        "NO_CNT": 2.0,
+        "NO_CNT": 3.0,
         "YES_CNT": 1.0,
-        "TOTAL": 3.0,
-        "NO_PER": 0.667,
-        "YES_PER": 0.333,
+        "TOTAL": 4.0,
+        "NO_PER": 0.75,
+        "YES_PER": 0.25,
         "ADD": "Brisee Verdiere"
       }
     },
@@ -30,8 +30,8 @@
       },
       "properties": {
         "NO_CNT": 0.0,
-        "YES_CNT": 2.0,
-        "TOTAL": 2.0,
+        "YES_CNT": 3.0,
+        "TOTAL": 3.0,
         "NO_PER": 0.0,
         "YES_PER": 1.0,
         "ADD": "Terre Rouge"
@@ -47,11 +47,11 @@
         ]
       },
       "properties": {
-        "NO_CNT": 0.0,
+        "NO_CNT": 1.0,
         "YES_CNT": 1.0,
-        "TOTAL": 1.0,
-        "NO_PER": 0.0,
-        "YES_PER": 1.0,
+        "TOTAL": 2.0,
+        "NO_PER": 0.5,
+        "YES_PER": 0.5,
         "ADD": "Goodlands"
       }
     }
