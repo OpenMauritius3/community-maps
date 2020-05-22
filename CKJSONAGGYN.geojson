@@ -1,1 +1,41 @@
-Test Aggregation
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.64667,
+          -20.16389
+        ]
+      },
+      "properties": {
+        "NO_CNT": 1.0,
+        "YES_CNT": 1.0,
+        "TOTAL": 2.0,
+        "NO_PER": 0.5,
+        "YES_PER": 0.5,
+        "ADD": "Brisee Verdiere"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.52444,
+          -20.12611
+        ]
+      },
+      "properties": {
+        "NO_CNT": 0.0,
+        "YES_CNT": 2.0,
+        "TOTAL": 2.0,
+        "NO_PER": 0.0,
+        "YES_PER": 1.0,
+        "ADD": "Terre Rouge"
+      }
+    }
+  ]
+}
